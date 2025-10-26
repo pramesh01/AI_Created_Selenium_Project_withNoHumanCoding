@@ -1,0 +1,5 @@
+com\example\selenium\pages\CartPage.class
+com\example\selenium\pages\ExamplePage.class
+com\example\selenium\pages\BasePage.class
+com\example\selenium\pages\LoginPage.class
+com\example\selenium\pages\SearchPage.class

@@ -1,0 +1,4 @@
+com\example\selenium\tests\EndToEndTest.class
+com\example\selenium\tests\ExampleTest.class
+com\example\selenium\tests\BaseTest.class
+com\example\selenium\tests\LoginTest.class
